@@ -1,4 +1,7 @@
-# OpenVPN + MFA (Google Authenticator)          
+# OpenVPN + MFA (Google Authenticator)
+<div style="text-align:center">
+  <img src="./openvpn_logo.png" alt="wireguard" />
+</div>          
 This is a good setup for seccurly connect to your bastion with openvpn connection. You can seccurly access your servers with key or password. You will use private ip address of the servers (It may dosent have a public IP address).
 
 ## VPN Background
